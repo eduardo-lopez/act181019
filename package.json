@@ -1,0 +1,12 @@
+{
+  "name": "act181019",
+  "version": "0.0.0",
+  "description": "act181019",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
