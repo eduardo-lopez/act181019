@@ -4,7 +4,10 @@
   "description": "act181019",
   "main": "app.js",
   "author": {
-    "name": ""
+    "name": "Eduardo Lopez"
+  },
+  "scripts": {
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.16.4"

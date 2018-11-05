@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+.vs
+.vscode
+obj
+act181019.sln
+act181019.njsproj
