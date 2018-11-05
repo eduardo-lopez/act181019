@@ -1,4 +1,4 @@
-### act181019
+# act181019
 
 ## Descripción del ejercicio
 Desarrolle un programa en Node.js donde la primera versión del API regrese el id y nombre del empleado. La segunda versión del API, regrese #id, nombre y apellido. Cada versión del API Empleados tendrá su propia ruta en el URL.
@@ -8,11 +8,11 @@ Comando correr la app
 > node app.js
 
 ## Probar la app
-# El URL de la version 1 del API
+### El URL de la version 1 del API
 *Muestra el ID y Nombre en formato JSON*
 http://localhost:50000/v1/employees
 
-# El URL de la version 2 del API
+### El URL de la version 2 del API
 *Muestra el ID, Nombre y Apellido en formato JSON*
 http://localhost:50000/v1/employees
 
