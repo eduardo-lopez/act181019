@@ -4,7 +4,7 @@
 Desarrolle un programa en Node.js donde la primera versión del API regrese el id y nombre del empleado. La segunda versión del API, regrese #id, nombre y apellido. Cada versión del API Empleados tendrá su propia ruta en el URL.
 
 ## Instrucciones
-Comando correr la app
+Comando para correr la app
 > node app.js
 
 ## Probar la app
